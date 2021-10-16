@@ -7,4 +7,4 @@ Namely it contains:
 - Assignment 3 - tricks for upgrading performance
 - Assignment 4 - convolutional networks
 - Assignment 5 - recursive networks
-- Final project - studying gender bias in word embeddings for popular networks
+- Final project - studying gender bias in word embeddings for popular networks. Project was made together with fellow student Dawid Barzyk.
